@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is A86F-EEDE
+
+ Directory of D:\git\project
+
+02/12/2017  09:53 PM    <DIR>          .
+02/12/2017  09:53 PM    <DIR>          ..
+02/12/2017  09:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  140,949,213,184 bytes free
